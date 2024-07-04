@@ -9,7 +9,7 @@ This is a simple Amazon e-commerce platform clone built using HTML and CSS. The 
 - Product detail pages
 - Shopping cart interface
 - Basic styling to mimic the Amazon look and feel
-- 
+- live demo of the project------>https://vocal-dragon-cc6fb0.netlify.app/
 ## Usage
 
 1. Open `index.html` in a web browser to view the home page.
